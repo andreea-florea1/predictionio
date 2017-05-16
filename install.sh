@@ -9,10 +9,10 @@
 # License: http://www.apache.org/licenses/LICENSE-2.0
 
 OS=`uname`
-PIO_VERSION=0.11.0
-SPARK_VERSION=1.6.3
+PIO_VERSION=0.10.0-incubating
+SPARK_VERSION=1.6.2
 # Looks like support for Elasticsearch 2.0 will require 2.0 so deferring
-ELASTICSEARCH_VERSION=1.7.6
+ELASTICSEARCH_VERSION=1.7.5
 HBASE_VERSION=1.2.5
 POSTGRES_VERSION=9.4-1204.jdbc41
 MYSQL_VERSION=5.1.37
